@@ -78,7 +78,10 @@ onderwerp.
 
 ## Het werkblad
 
-Vijf tabbladen. Het eerste is de kern: elke zoekterm met zijn onderwerp, zijn familie en
+Zes tabbladen, waarvan het eerste een **Lees mij** is: wat het bestand is, wat het verschil
+tussen een onderwerp en een familie is, hoe je de kolommen leest, met welke instellingen er
+gemeten is, en wat het niet doet. Zo blijft het bestand te lezen als je het over twee maanden
+weer opent of naar een collega stuurt. Daarna volgt de kern: elke zoekterm met zijn onderwerp, zijn familie en
 in gewone taal wat dat betekent. De oranje regels zijn de onderwerpen waar meer dan één
 zoekterm in zit, want daar valt de winst te halen.
 
