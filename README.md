@@ -16,9 +16,9 @@ De uitleg met de stappen staat op **[ferryjansen.nl/tools/zoektermen-groeperen/]
 
 ## Beginnen
 
-1. Open [zoektermen-groeperen.ipynb](zoektermen-groeperen.ipynb) in
-   [Google Colab](https://colab.research.google.com/). Kies in Colab **Bestand → Notebook
-   uploaden** en sleep het bestand erin, of plak de link naar dit bestand op GitHub.
+1. **[Open het notebook direct in Google Colab](https://colab.research.google.com/github/ferryjansendigitalestrategie/zoektermen-groeperen/blob/main/zoektermen-groeperen.ipynb)**.
+   Je hoeft niets te downloaden. Wil je je eigen versie bewaren, kies dan in Colab
+   *Kopie opslaan in Drive*.
 2. Draai blok 1 om de benodigdheden te installeren.
 3. Vul in blok 2 je inloggegevens van DataForSEO en je eigen zoektermen in. Dat is het
    enige blok dat je aanpast.
