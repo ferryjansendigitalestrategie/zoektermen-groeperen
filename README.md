@@ -10,7 +10,12 @@ drie vragen beantwoordt.
 3. **Wie staat er het vaakst?** Welke domeinen nemen in jouw verzameling zoektermen de
    meeste ruimte in, gewogen naar positie.
 
-Je krijgt een PDF-rapport en drie CSV-bestanden.
+Je krijgt drie dingen terug:
+
+- **een Excel-werkblad** met je zoektermen gelabeld, en dat is het bestand waar je mee
+  verder werkt
+- **een PDF-rapport** om te lezen en door te sturen
+- **drie CSV-bestanden** voor wie liever zelf rekent
 
 De uitleg met de stappen staat op **[ferryjansen.nl/tools/zoektermen-groeperen/](https://ferryjansen.nl/tools/zoektermen-groeperen/)**.
 
@@ -70,6 +75,19 @@ onderwerp.
 - Het kijkt niet naar je eigen site, alleen naar wat er in de zoekresultaten staat
 - Voor één zoekterm heeft het geen zin. Dan kun je net zo goed zelf zoeken. De waarde
   ontstaat over tientallen zoektermen tegelijk
+
+## Het werkblad
+
+Vijf tabbladen. Het eerste is de kern: elke zoekterm met zijn onderwerp, zijn familie en
+in gewone taal wat dat betekent. De oranje regels zijn de onderwerpen waar meer dan één
+zoekterm in zit, want daar valt de winst te halen.
+
+De overige bladen zijn de onderwerpen op een rij, wat Google toont, welke domeinen er het
+vaakst staan, en hoeveel resultaten elk paar zoektermen deelt zodat je de groepering zelf
+kunt nakijken.
+
+De kopbanden zijn donker met oranje accenten en de rest is licht. Een volledig donker
+werkblad staat leuk maar is niet te gebruiken en drukt slecht af.
 
 ## Het rapport
 
