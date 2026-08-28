@@ -25,9 +25,11 @@ De uitleg met de stappen staat op **[ferryjansen.nl/tools/zoektermen-groeperen/]
    Je hoeft niets te downloaden. Wil je je eigen versie bewaren, kies dan in Colab
    *Kopie opslaan in Drive*.
 2. Draai blok 1 om de benodigdheden te installeren.
-3. Vul in blok 2 je inloggegevens van DataForSEO en je eigen zoektermen in. Dat is het
-   enige blok dat je aanpast.
-4. Draai de rest van boven naar beneden.
+3. Vul in blok 2 je inloggegevens van DataForSEO in. Dat doe je één keer.
+4. Zet in blok 3 je zoektermen erin. Dat kan op twee manieren: plak ze in het blok,
+   één per regel, of zet `UPLOADEN` op `True` en kies een CSV- of Excel-bestand,
+   bijvoorbeeld een export uit Search Console.
+5. Draai de rest van boven naar beneden.
 
 Je hebt verder niets nodig. Geen installatie op je eigen computer, geen Google Cloud,
 geen Search Console-koppeling.
